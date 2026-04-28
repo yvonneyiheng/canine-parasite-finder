@@ -5,3 +5,5 @@
 在线访问：<https://yvonneyiheng.github.io/canine-parasite-finder/>
 
 本网站仅用于科普和查询，不提供剂量计算、诊断或处方建议。实际用药应按当地产品标签、犬只体重年龄限制、检测结果和兽医建议执行。
+
+![犬类驱虫查询网站预览](milou.png)
