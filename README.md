@@ -2,6 +2,9 @@
 
 双语 React/Vite 静态网站，用于犬类寄生虫科普、常见驱虫药覆盖谱查询、成分机制说明和安全提示。
 
+在线访问：<https://yvonneyiheng.github.io/canine-parasite-finder/>
+
+
 ## 本地运行
 
 ```bash
